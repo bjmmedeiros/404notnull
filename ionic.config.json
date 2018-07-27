@@ -1,6 +1,7 @@
 {
   "name": "datong3",
-  "app_id": "a4af6e2e",
+  "integrations": {},
   "v2": true,
-  "typescript": true
+  "typescript": true,
+  "pro_id": "a4af6e2e"
 }
